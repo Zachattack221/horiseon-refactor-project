@@ -12,4 +12,4 @@ The purpose of the project was to consolidate a semantically cumbersome HTML and
 In addition, the site was tested to ensure all links functioned properly, and the aestetics of the page were held to a certain standard.
 
 ## Visuals
-![Alt text](assets\images\Horiseon-project-refactor-zach-vanDijk.png)
+![Horiseon-project-refactor-zach-vanDijk](https://user-images.githubusercontent.com/108491506/184260306-868940e3-454a-49ce-a1a1-bcb28247606b.png)
