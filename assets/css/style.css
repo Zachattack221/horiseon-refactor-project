@@ -37,7 +37,12 @@ nav a {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* added hover state to nav links*/
+/* TODO: fix color  */
+nav a:hover {
+    color: #d9dcd6;
+    text-decoration: underline
+}
 a {
     color: #ffffff;
     text-decoration: none;
@@ -131,25 +136,8 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
+/* refactored css to consolidate styles for content sections*/
+.content div {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
